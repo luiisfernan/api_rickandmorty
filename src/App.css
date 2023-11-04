@@ -28,6 +28,35 @@
   color: #61dafb;
 }
 
+.txt_name {
+  background-color: #282c34;
+  font-size: 18px;
+  border: 0;
+  color: #fff;
+}
+
+
+.btn {
+  margin: 20px;
+  
+}
+
+.btn_search {
+  background-color: #282c34;
+  font-size: 18px;
+  color: #fff;
+  border: 2px solid #fff;
+  width: 25%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.btn_search:hover {
+  background-color: #fff;
+  color: #282c34;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
